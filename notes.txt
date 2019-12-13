@@ -1,0 +1,24 @@
+Actions:
+========
+addFeature / buyItem
+removeFeature
+
+--------
+
+Data:
+=====
+car
+  (num)id*
+  (str)name
+  (str)image
+  (arr)features
+  (num)price
+additionalFeatures
+  (num)id
+  (str)name
+  (num)price
+  (str)type*
+  (str)video*
+(num)additionalPrice
+
+*added
